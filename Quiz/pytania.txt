@@ -1,0 +1,11 @@
+Ile jest 3+3+5*5?;
+Ile razy w ciągu doby wskazówki godzinowa i minutowa pokrywają się?;
+Oblicz 'x' w równaniu: 2 + x = 5;
+	(-3) · (-2) · (-3) =;
+Oblicz 'x' w równaniu: 6x - (x - 1) = 6
+	(-3) · (-2) · (-3) =
+	Jeżeli |x| = 6, to x=;
+
+
+
+
